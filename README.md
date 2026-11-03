@@ -2,7 +2,8 @@
 
 A chatbot that answers text questions and questions about uploaded images, powered by Google Gemini. It is built with Python and the official Google Gen AI SDK, with a Streamlit web interface.
 
-![Gemini Vision Chat interface](screenshots/chat_interface.png)
+<img width="1911" height="912" alt="Screenshot 2026-11-03 120820" src="https://github.com/user-attachments/assets/70bcd10f-4636-462a-80ff-c46a43bd87ef" />
+
 
 ## Features
 
